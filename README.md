@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhavesh Verma
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Myself Bhavesh
 ========================================================================================================================================
 
 I am Front End developer & Tech-Enthusiast.
@@ -9,7 +9,7 @@ I am Front End developer & Tech-Enthusiast.
 *   🧠  Currently learning React Native
 *   📫 How to reach me **bhaveshv918@gmail.com**
 *   🤝  I'm open to collaborating on interesting projects as a developer
-*   ⚡ Fun fact **I'm a huge fan of Bollywood movies and can sing along to all the popular songs, even though I don't understand the lyrics.**
+*   ⚡ Fun fact: **I'm a huge fan of Bollywood movies and can sing along to all the popular songs, even though I don't understand the lyrics.**
 
 
 ### Skills
