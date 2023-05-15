@@ -6,7 +6,7 @@ I am Front End developer & Tech-Enthusiast.
 
 *   🌍  I'm based in Noida, India
 *   🖥️  Polishing my Portfolio... slowly but surely! [](.)
-*   🧠  Currently learning Next.js
+*   🧠  Currently learning React Native
 *   📫 How to reach me **bhaveshv918@gmail.com**
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   ⚡ Fun fact **I'm a huge fan of Bollywood movies and can sing along to all the popular songs, even though I don't understand the lyrics.**
