@@ -21,5 +21,7 @@ I am Front End developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/bhaveshv918/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://instagram.com/fitso.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fitso.me" height="30" width="40" /></a> </p>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhaveshv918/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhaveshv918/" height="30" width="40" /></a>
+<a href="https://instagram.com/fitso.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fitso.me" height="30" width="40" /></a>
+</p>
