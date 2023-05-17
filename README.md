@@ -7,9 +7,9 @@ I am Front End developer & a Tech-obsessed Adventurer.
 *   🌍  I'm based in Noida, India
 *   🖥️  Polishing my Portfolio... slowly but surely! [](.)
 *   🧠  Currently learning React Native
-*   📫  Reach me at **bhaveshv918@gmail.com**
+*   📫  Reach me at **bhaveshv918@gmail.com**
 *   🤝  I'm open to collaborating on interesting projects as a developer
-*   ⚡   Fun fact: **I'm a huge fan of Bollywood movies and can sing along to all the popular songs, even though I don't understand the lyrics.**
+*   ⚡  Fun fact: **I'm a huge fan of Bollywood movies and can sing along to all the popular songs, even though I don't understand the lyrics.**
 
 
 ### Skills
