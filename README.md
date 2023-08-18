@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Myself Bhavesh
 ========================================================================================================================================
 
-I am Front End developer & a Tech-obsessed Adventurer.
+I am Passionate Frontend React Developer.
 --------------------------
 
 *   🌍  I'm based in Noida, India
-*   🖥️  Polishing my Portfolio... <a href="https://bhavesh-portfolio-three.vercel.app" target="blank"/>Here</a>(.)
+*   🖥️  Polishing my Portfolio... <a href="https://bhavesh-portfolio-three.vercel.app" target="blank"/>Here</a>
 *   🧠  Currently learning React JS
 *   📫  Reach me at **bhaveshv918@gmail.com**
 *   🤝  I'm open to collaborating on interesting projects as a developer
