@@ -5,8 +5,8 @@ I am Front End developer & a Tech-obsessed Adventurer.
 --------------------------
 
 *   🌍  I'm based in Noida, India
-*   🖥️  Polishing my Portfolio... slowly but surely! [](.)
-*   🧠  Currently learning React Native
+*   🖥️  Polishing my Portfolio... Link <a href="https://bhavesh-portfolio-three.vercel.app" target="blank">/>Link1</a>[](.)
+*   🧠  Currently learning React JS
 *   📫  Reach me at **bhaveshv918@gmail.com**
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   ⚡  Fun fact: **I'm a huge fan of Bollywood movies and can sing along to all the popular songs, even though I don't understand the lyrics.**
