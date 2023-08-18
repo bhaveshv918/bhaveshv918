@@ -5,7 +5,7 @@ I am Front End developer & a Tech-obsessed Adventurer.
 --------------------------
 
 *   🌍  I'm based in Noida, India
-*   🖥️  Polishing my Portfolio... Link <a href="https://bhavesh-portfolio-three.vercel.app" target="blank"/>Link1</a>[](.)
+*   🖥️  Polishing my Portfolio... <a href="https://bhavesh-portfolio-three.vercel.app" target="blank"/>Here</a>(.)
 *   🧠  Currently learning React JS
 *   📫  Reach me at **bhaveshv918@gmail.com**
 *   🤝  I'm open to collaborating on interesting projects as a developer
